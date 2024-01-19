@@ -4,12 +4,7 @@
 <h1 align="center">Hi 👋, I'm Malhar</h1>
 <h3 align="center">A Full Stack Web Developer from Pakistan</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malhar-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="malhar-soomro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malhar-soomro" alt="malhar-soomro" /></a> </p>
-
-👨‍💻 All of my projects are available at [https://developermalhar.netlify.app/](https://developermalhar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://developermalhar.netlify.app/](https://developermalhar.netlify.app/)
 
 - 📫 How to reach me **malharsoomro2@gmail.com**
 
